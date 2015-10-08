@@ -8,4 +8,7 @@ This template includes a custom download of <a href="http://foundation.zurb.com/
 Please consult the <a href="http://foundation.zurb.com/docs/" target="_blank">DOCS</a> for how to use Foundation. If you need a custom build, you can download it <a href="http://foundation.zurb.com/develop/download.html#customizeFoundation" targer="_blank">HERE</a>.
 <br>
 <br>
+Be sure to add your CSS to custom.css <em>NOT</em> foundation.css
+<br>
+<br>
 <a href="https://coolors.co/app/ffd500-990000-cccccc-444443-333333" target="_blank">Here are our brand colors.</a> The red is a <em>secondary</em> color; use sparingly.
