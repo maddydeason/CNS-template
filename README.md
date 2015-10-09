@@ -1,6 +1,7 @@
 # CNS-template
 Capital News Service template for standalone pages
-
+Click on "Download Zip"
+<br>
 Header bar and basic scripts included. Be sure to update the metadata.
 <br>
 <br>
