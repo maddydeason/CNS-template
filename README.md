@@ -1,5 +1,5 @@
 # CNS-template
-Capital News Service template for standalone pages
+Capital News Service template for microsites
 <br>
 <br>
 Click on "Download Zip"
